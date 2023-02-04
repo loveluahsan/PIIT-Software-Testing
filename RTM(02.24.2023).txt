@@ -1,0 +1,8 @@
+Requirement Traceability Matrix(RTM)
+RTM - it maps the requirements with the Test Cases
+
+Req ID        Req Description            TEST CASE IDs     STATUS
+101           Account Creation           TC_001, TC_002     Pass
+102           Ticket Generation          TC_605, TC_606     Fail
+103           Advertisement Flash        TC_912, TC_913     No Run
+  

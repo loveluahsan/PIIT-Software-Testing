@@ -1,0 +1,24 @@
+Use Cases desribes the  requirements
+Use case contains Three items
+ > Actor
+ > Action - to reach the final outcome
+ > Goal/Outcome
+Described functional requirement, prepared by Business Analyst(BA)
+
+Test Scenario
+A possible area to be tested (What to test)
+Prepared by Testers
+
+
+Test Case
+Step by step actions performed to validate any functionality (How to Test)
+Prepared by Testers
+Set of actions executed to validate a particular feature or functionality of a soft. application
+--------------------------------------------------------------------------------
+Login Functionality
+Test Scenario: Checking the functionality of the login button
+
+   TC1: Click the submit button without entering username or password
+   TC2: Click the submit button without entering username but entering password
+   TC3: Click the submit button without entering password but entering username
+

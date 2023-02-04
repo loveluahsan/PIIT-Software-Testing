@@ -1,0 +1,52 @@
+Exhaustive Testing is not possible
+Test Coverage cannot be 100%
+
+There are multiple test design techniques which help us to achieve the best possible testing: -
+
+1. Boundary Value Analysis
+2. Equivalence Class Partitioning
+3. Decision Table Testing
+4. State Transition
+5. Error Guessing
+
+------------------------------------------------------------------------------
+
+Checks data mostly at the boundary level
+
+there is a text box which can accept data in integer from  1 to 35
+
+Minimum value = 1
+Min val - 1 = 0
+Min val + 1 = 2
+Maximum value = 35
+Max val - 1 = 34
+Max val + 1 = 36
+-----------------------------------------------------------------------------
+
+100000 username passwords
+5000 unpwds makes 1 class
+total 20 classes
+
+------------------------------------------------------------------------------
+it is called Cause Effect Table
+
+------------------------------------------------------------------------------
+State Transition Testing
+
+testing done to validate the changes per input
+
+---------------------------------------------------------------------------------
+
+Error Guessing: -
+
+
+
+
+
+
+
+
+
+
+
+
